@@ -1,0 +1,5 @@
+Har installeret følgende som hjælpepakker:
+express - Er et web framework, der fungerer som et værktøj for http servere
+nodemon - Genstarter serveren automatisk efter man har lavet ændringer
+socket.io - Håndterer vores web sockets
+cors - Hjælper med at fejlfinde fejl med forbindelser. Finder bugs. 

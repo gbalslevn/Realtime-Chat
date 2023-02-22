@@ -12,7 +12,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
-  "repository": "git+https://github.com/gbalslevn/Realtime-Chat.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbalslevn/Realtime-Chat.git"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
